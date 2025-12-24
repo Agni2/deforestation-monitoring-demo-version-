@@ -1,4 +1,4 @@
-# 🌍 Deforestation Monitoring Demo
+# 🌍 Deforestation Monitoring Demo Model
 
 A Python-based demo project that simulates NDVI-based deforestation detection using satellite-like imagery. The system identifies vegetation loss between two dates and visualizes affected areas on interactive maps and plots.
 
